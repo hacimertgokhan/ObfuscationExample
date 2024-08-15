@@ -1,0 +1,7 @@
+name: LisansEkl
+version: '1.0-SNAPSHOT'
+main: A.B.A.A
+prefix: MagnesifyLS
+load: STARTUP
+authors: [ HaciMertGokhan ]
+website: magnesify.com
